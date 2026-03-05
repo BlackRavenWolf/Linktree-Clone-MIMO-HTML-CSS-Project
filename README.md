@@ -68,5 +68,3 @@ Example of how the profile image is used in the HTML:
 
 This repository is part of my learning journey in web development.
 It documents my progress while studying programming through the **MIMO learning platform** and experimenting with real coding projects.
-
-Dat zijn namelijk dingen die developers vaak vergeten maar **veel indruk maken.**
